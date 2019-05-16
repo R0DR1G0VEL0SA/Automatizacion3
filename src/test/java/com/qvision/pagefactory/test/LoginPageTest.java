@@ -41,7 +41,7 @@ public class LoginPageTest {
 	@After
 	public void closeBrowser() {
 		driver.close();
-		driver.quit();
+		//driver.quit();
 
 	}
 
