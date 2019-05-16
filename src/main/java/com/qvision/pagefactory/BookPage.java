@@ -63,5 +63,9 @@ public class BookPage {
 		element.clear();
 		element.sendKeys(text + "");
 	}
+	
+	public void metodoPrueba(){
+		
+	}
 
 }
